@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/facil-consulta-backend/tests/Unit" />
         <option value="$PROJECT_DIR$/facil-consulta-backend/tests/Feature" />
+        <option value="$PROJECT_DIR$/backend/tests/Unit" />
+        <option value="$PROJECT_DIR$/backend/tests/Feature" />
       </list>
     </option>
   </component>
