@@ -1,5 +1,6 @@
 ## Teste para Desenvolvedor Backend Pleno ##
 ### Laravel version 8.0 ###
+## Necessário PHP 8.1 ou superior ##
 
 ## Instalação ##
 - Clone o repositório
