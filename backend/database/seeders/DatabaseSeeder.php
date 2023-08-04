@@ -19,9 +19,9 @@ class DatabaseSeeder extends Seeder
     public function run()
     {
         UserFactory::new()->create();
-//        Cidade::factory(10)->create();
-//        Medico::factory(10)->create();
-//        Paciente::factory(20)->create();
-//        MedicoPaciente::factory(20)->create();
+        Cidade::factory(10)->create();
+        Medico::factory(10)->create();
+        Paciente::factory(20)->create();
+        MedicoPaciente::factory(20)->create();
     }
 }
